@@ -1,1 +1,1 @@
-Team 10: Learning Git together
+# Team 10: Git project
