@@ -1,1 +1,1 @@
-Team 10: Learning Git together
+This is Team 10, member B
